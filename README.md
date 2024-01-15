@@ -1,2 +1,2 @@
 # FundMe
-A WEB3 funding project 
+A WEB3 funding smart contract.
